@@ -1,1 +1,1 @@
-it prints the core opareting system name
+This file is mandatory in projects
